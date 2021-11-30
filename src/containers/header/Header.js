@@ -7,7 +7,7 @@ const Header = () => {
 	return (
 		<div className="gpt3__header section__padding" id="home">
 			<div className="gpt3__header-content">
-				<h1 /* className="gradient__text" */>Let's Build Something amazing with GPT-3 OpenAI</h1>
+				<h1 className="gradient__text">Let's Build Something amazing with GPT-3 OpenAI</h1>
 				<p>As a user, on the dashboard I should be able to see a section that predicts future cashflow for the business. I should be able to predict future revenue and costs structure. I should be able to </p>
 
 				<div className="gpt3__header-content__input">
